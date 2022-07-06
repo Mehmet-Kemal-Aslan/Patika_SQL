@@ -1,0 +1,87 @@
+6.07.2022 09:34:55	This log contains information about the import schema operation into project 'DB' on computer 'DESKTOP-RF6QFC2' by user 'Mehmet Kemal'.
+6.07.2022 09:34:55	Import of database schema has started.
+6.07.2022 09:35:07	Gathering database credentials
+6.07.2022 09:35:07	Gathering database options
+6.07.2022 09:35:07	Gathering generic database scoped configuration option
+6.07.2022 09:35:07	Gathering users
+6.07.2022 09:35:07	Gathering roles
+6.07.2022 09:35:07	Gathering application roles
+6.07.2022 09:35:07	Gathering role memberships
+6.07.2022 09:35:07	Gathering filegroups
+6.07.2022 09:35:07	Gathering full-text catalogs
+6.07.2022 09:35:07	Gathering assemblies
+6.07.2022 09:35:07	Gathering certificates
+6.07.2022 09:35:07	Gathering asymmetric keys
+6.07.2022 09:35:07	Gathering symmetric keys
+6.07.2022 09:35:07	Gathering encrypted symmetric keys
+6.07.2022 09:35:07	Gathering schemas
+6.07.2022 09:35:07	Gathering XML schema collections
+6.07.2022 09:35:07	Gathering user-defined data types
+6.07.2022 09:35:07	Gathering user-defined types
+6.07.2022 09:35:07	Gathering table types
+6.07.2022 09:35:07	Gathering unique keys for table types
+6.07.2022 09:35:07	Gathering primary keys for table types
+6.07.2022 09:35:07	Gathering indexes for table types
+6.07.2022 09:35:08	Gathering check constraints for table types
+6.07.2022 09:35:08	Gathering default constraints for table types
+6.07.2022 09:35:08	Gathering partition functions
+6.07.2022 09:35:08	Gathering partition schemes
+6.07.2022 09:35:08	Gathering functions
+6.07.2022 09:35:08	Gathering encrypted functions
+6.07.2022 09:35:08	Gathering aggregates
+6.07.2022 09:35:08	Gathering procedures
+6.07.2022 09:35:08	Gathering encrypted procedures
+6.07.2022 09:35:08	Gathering tables
+6.07.2022 09:35:08	Gathering primary keys
+6.07.2022 09:35:08	Gathering unique constraints
+6.07.2022 09:35:08	Gathering foreign keys
+6.07.2022 09:35:08	Gathering default constraints
+6.07.2022 09:35:08	Gathering check constraints
+6.07.2022 09:35:08	Gathering views
+6.07.2022 09:35:08	Gathering encrypted views
+6.07.2022 09:35:08	Gathering indexes
+6.07.2022 09:35:08	Gathering statistics
+6.07.2022 09:35:08	Gathering full-text index stoplists
+6.07.2022 09:35:08	Gathering search property lists
+6.07.2022 09:35:08	Gathering search properties
+6.07.2022 09:35:08	Gathering full-text indexes
+6.07.2022 09:35:08	Gathering column store indexes
+6.07.2022 09:35:08	Gathering spatial indexes
+6.07.2022 09:35:08	Gathering XML indexes
+6.07.2022 09:35:08	Gathering Selective XML indexes
+6.07.2022 09:35:08	Gathering encrypted triggers
+6.07.2022 09:35:08	Gathering triggers
+6.07.2022 09:35:08	Gathering encrypted and clr ddl triggers
+6.07.2022 09:35:08	Gathering ddl triggers
+6.07.2022 09:35:08	Creating edge constraints
+6.07.2022 09:35:08	Gathering synonyms
+6.07.2022 09:35:08	Gathering defaults
+6.07.2022 09:35:08	Gathering data constraint uddt bindings
+6.07.2022 09:35:08	Gathering rules
+6.07.2022 09:35:08	Gathering data constraint uddt bindings
+6.07.2022 09:35:08	Gathering message types
+6.07.2022 09:35:08	Gathering queues
+6.07.2022 09:35:08	Gathering contracts
+6.07.2022 09:35:08	Gathering services
+6.07.2022 09:35:08	Gathering event notifications
+6.07.2022 09:35:08	Gathering remote service bindings
+6.07.2022 09:35:08	Gathering broker priorities
+6.07.2022 09:35:08	Gathering signatures
+6.07.2022 09:35:08	Gathering data compression options
+6.07.2022 09:35:08	Gathering sequence types
+6.07.2022 09:35:08	Gathering security policies
+6.07.2022 09:35:08	Gather column encryption keys
+6.07.2022 09:35:08	Gathering column master keys
+6.07.2022 09:35:08	Gathering external data sources
+6.07.2022 09:35:08	Gathering external file formats
+6.07.2022 09:35:08	Gathering external tables
+6.07.2022 09:35:08	Gathering extended properties
+6.07.2022 09:35:08	Gathering assemblies
+6.07.2022 09:35:09	Gathering credentials
+6.07.2022 09:35:09	Gathering logins
+6.07.2022 09:35:09	Gathering server audits
+6.07.2022 09:35:10	Scanning project for duplicate elements
+6.07.2022 09:35:10	Finished duplicate element processing
+6.07.2022 09:35:10	Finished importing database.
+6.07.2022 09:35:10	A summary of the import was saved to the following location: C:\Users\Mehmet Kemal\source\repos\DB\DB\Import Schema Logs\DB_20220706063455.log
+6.07.2022 09:35:10	Click Finish to continue...
